@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WPMail_SMTP</name>
+   <tag></tag>
+   <elementGuidId>773095c6-49c0-420a-8c2f-4d3c928652ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='toplevel_page_wp-mail-smtp']/a/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-has-submenu.wp-not-current-submenu.menu-top.toplevel_page_wp-mail-smtp > div.wp-menu-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ddc3c832-b1e3-4e34-b961-b927b619b507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-menu-name</value>
+      <webElementGuid>d3f3af83-ea31-4301-b9ec-dcce2182789e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WP Mail SMTP</value>
+      <webElementGuid>a254eea2-958f-40e9-87bb-cf1c1b06e5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_wp-mail-smtp&quot;)/a[@class=&quot;wp-has-submenu wp-not-current-submenu menu-top toplevel_page_wp-mail-smtp&quot;]/div[@class=&quot;wp-menu-name&quot;]</value>
+      <webElementGuid>d399a698-2324-49d7-9cc8-99ec7b2163f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_wp-mail-smtp']/a/div[3]</value>
+      <webElementGuid>0eff3c78-8bc8-4152-8806-47bca6a7f39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EWWW Image Optimizer'])[2]/following::div[4]</value>
+      <webElementGuid>9cee962d-e18a-4cd8-a4ad-6ae0b598914f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[4]/preceding::div[1]</value>
+      <webElementGuid>43c41916-46a1-48b8-aa73-dea3a683fbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Log'])[1]/preceding::div[1]</value>
+      <webElementGuid>ad4f10bb-4fe2-465f-937e-b7c33f76b4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WP Mail SMTP']/parent::*</value>
+      <webElementGuid>ce20f1e5-833d-4f15-802f-b309dc1b88bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[23]/a/div[3]</value>
+      <webElementGuid>1e7b1cef-82ba-4c19-8eeb-b498ed738e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WP Mail SMTP' or . = 'WP Mail SMTP')]</value>
+      <webElementGuid>ea5f077f-5cb8-4f20-862b-548e795cad4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

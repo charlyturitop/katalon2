@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="backoffice" time="46.848" tests="2" failures="0" errors="0">
+   <testsuite name="backoffice" tests="2" failures="0" errors="0" time="46.848" skipped="0" timestamp="2022-08-03 13:51:44" hostname="cuentaestudio - 192.168.1.37" id="Test Suites/wordpress_backoffice/backoffice">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/cuentaestudio/Katalon Studio/multiple-buy/Reports/20220803_135136/wordpress_backoffice/backoffice/20220803_135137"/>
+         <property name="logFiles" value="/Users/cuentaestudio/Katalon Studio/multiple-buy/Reports/20220803_135136/wordpress_backoffice/backoffice/20220803_135137/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="cuentaestudio - 192.168.1.37"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 103.0.5060.134"/>
+         <property name="hostAddress" value="192.168.1.37"/>
+         <property name="sessionId" value="33c760ba4e2dc050cf1335c4237eb209"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/woocommerce_settings_jetwoobuilder_exist" time="23.944" classname="Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/woocommerce_settings_jetwoobuilder_exist" status="PASSED">
+         <system-out><![CDATA[2022-08-03 13:51:44 - [TEST_CASE][PASSED] - Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/woocommerce_settings_jetwoobuilder_exist: Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/woocommerce_settings_jetwoobuilder_exist
+
+2022-08-03 13:51:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-03 13:51:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-03 13:51:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-03 13:51:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-03 13:51:46 - [TEST_STEP][PASSED] - navigateToUrl("https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"): Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 13:51:47 - [MESSAGE][PASSED] - Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 13:51:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Username"), "HeK7efHMQ5uFnm9JjsPr"): Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Username'
+
+2022-08-03 13:51:48 - [MESSAGE][PASSED] - Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Username'
+
+2022-08-03 13:51:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Password"), "j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="): Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Password'
+
+2022-08-03 13:51:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Password'
+
+2022-08-03 13:51:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/submit_button")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/submit_button' is clicked on
+
+2022-08-03 13:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/submit_button' is clicked on
+
+2022-08-03 13:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_WooCommerce")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_WooCommerce' is clicked on
+
+2022-08-03 13:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_WooCommerce' is clicked on
+
+2022-08-03 13:51:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/woocommerce_Settings")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/woocommerce_Settings' is clicked on
+
+2022-08-03 13:51:59 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/woocommerce_Settings' is clicked on
+
+2022-08-03 13:51:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/a_JetWooBuilder")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/a_JetWooBuilder' is clicked on
+
+2022-08-03 13:52:02 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/a_JetWooBuilder' is clicked on
+
+2022-08-03 13:52:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_GeneralProductsShippingPaymentsAccounts_2afa44"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_GeneralProductsShippingPaymentsAccounts_2afa44' is present
+
+2022-08-03 13:52:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:03 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_GeneralProductsShippingPaymentsAccounts_2afa44' is present
+
+2022-08-03 13:52:03 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_General"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_General' is present
+
+2022-08-03 13:52:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:03 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_General' is present
+
+2022-08-03 13:52:03 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/th_Widgets Render Method"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/th_Widgets Render Method' is present
+
+2022-08-03 13:52:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:04 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/th_Widgets Render Method' is present
+
+2022-08-03 13:52:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Shop Page"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Shop Page' is present
+
+2022-08-03 13:52:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:04 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Shop Page' is present
+
+2022-08-03 13:52:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Single Product"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Single Product' is present
+
+2022-08-03 13:52:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:04 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Single Product' is present
+
+2022-08-03 13:52:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Product"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Product' is present
+
+2022-08-03 13:52:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:04 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Product' is present
+
+2022-08-03 13:52:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Category"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Category' is present
+
+2022-08-03 13:52:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:05 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Category' is present
+
+2022-08-03 13:52:05 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Checkout"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Checkout' is present
+
+2022-08-03 13:52:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:05 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Checkout' is present
+
+2022-08-03 13:52:05 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Thank You Page"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Thank You Page' is present
+
+2022-08-03 13:52:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:05 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Thank You Page' is present
+
+2022-08-03 13:52:05 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_My Account Page"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_My Account Page' is present
+
+2022-08-03 13:52:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:06 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_My Account Page' is present
+
+2022-08-03 13:52:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/button_Save changes"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/button_Save changes' is present
+
+2022-08-03 13:52:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:06 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/button_Save changes' is present
+
+2022-08-03 13:52:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-03 13:52:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-03 13:52:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-03 13:52:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings" time="22.646" classname="Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings" status="PASSED">
+         <system-out><![CDATA[2022-08-03 13:52:08 - [TEST_CASE][PASSED] - Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings: Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings
+
+2022-08-03 13:52:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-03 13:52:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-03 13:52:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-03 13:52:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-03 13:52:09 - [TEST_STEP][PASSED] - navigateToUrl("https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"): Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 13:52:10 - [MESSAGE][PASSED] - Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 13:52:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Username"), "HeK7efHMQ5uFnm9JjsPr"): Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Username'
+
+2022-08-03 13:52:11 - [MESSAGE][PASSED] - Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Username'
+
+2022-08-03 13:52:11 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Password"), "j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="): Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Password'
+
+2022-08-03 13:52:11 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Password'
+
+2022-08-03 13:52:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/login_button")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/login_button' is clicked on
+
+2022-08-03 13:52:14 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/login_button' is clicked on
+
+2022-08-03 13:52:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/WooCommerce")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/WooCommerce' is clicked on
+
+2022-08-03 13:52:16 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/WooCommerce' is clicked on
+
+2022-08-03 13:52:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/woocommerce_Settings")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/woocommerce_Settings' is clicked on
+
+2022-08-03 13:52:23 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/woocommerce_Settings' is clicked on
+
+2022-08-03 13:52:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_Payments")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_Payments' is clicked on
+
+2022-08-03 13:52:25 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_Payments' is clicked on
+
+2022-08-03 13:52:25 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/full_block"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/full_block' is present
+
+2022-08-03 13:52:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:28 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/full_block' is present
+
+2022-08-03 13:52:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/td_Custom Payment"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/td_Custom Payment' is present
+
+2022-08-03 13:52:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:28 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/td_Custom Payment' is present
+
+2022-08-03 13:52:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/button_Save changes"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/button_Save changes' is present
+
+2022-08-03 13:52:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:28 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/button_Save changes' is present
+
+2022-08-03 13:52:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-03 13:52:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-03 13:52:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_WooCommerce Payments"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_WooCommerce Payments' is present
+
+2022-08-03 13:52:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 13:52:31 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_WooCommerce Payments' is present
+
+2022-08-03 13:52:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-03 13:52:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-03 13:51:44 - [TEST_SUITE][PASSED] - backoffice: Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

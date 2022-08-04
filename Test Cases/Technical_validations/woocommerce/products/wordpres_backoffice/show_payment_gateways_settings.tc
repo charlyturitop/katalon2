@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>show_payment_gateways_settings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed9b4e4e-f360-4ffb-9eef-fba1045c5ed6</testCaseGuid>
+</TestCaseEntity>

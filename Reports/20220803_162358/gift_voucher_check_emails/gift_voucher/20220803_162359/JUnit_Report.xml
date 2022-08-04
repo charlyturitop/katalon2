@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="gift_voucher" time="58.21" tests="3" failures="0" errors="0">
+   <testsuite name="gift_voucher" tests="3" failures="0" errors="0" time="58.21" skipped="0" timestamp="2022-08-03 16:24:05" hostname="cuentaestudio - 192.168.1.37" id="Test Suites/gift_voucher_check_emails/gift_voucher">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/cuentaestudio/Katalon Studio/multiple-buy/Reports/20220803_162358/gift_voucher_check_emails/gift_voucher/20220803_162359"/>
+         <property name="logFiles" value="/Users/cuentaestudio/Katalon Studio/multiple-buy/Reports/20220803_162358/gift_voucher_check_emails/gift_voucher/20220803_162359/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="cuentaestudio - 192.168.1.37"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Chrome 103.0.5060.134"/>
+         <property name="hostAddress" value="192.168.1.37"/>
+         <property name="sessionId" value="20cf83963dda73cf351c4c26959727ba"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/deleted_emails_logs" time="16.26" classname="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/deleted_emails_logs" status="PASSED">
+         <system-out><![CDATA[2022-08-03 16:24:06 - [TEST_CASE][PASSED] - Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/deleted_emails_logs: Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/deleted_emails_logs
+
+2022-08-03 16:24:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-03 16:24:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-03 16:24:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-03 16:24:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-03 16:24:08 - [TEST_STEP][PASSED] - navigateToUrl("https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"): Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 16:24:09 - [MESSAGE][PASSED] - Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 16:24:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Username_log"), "HeK7efHMQ5uFnm9JjsPr"): Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Username_log'
+
+2022-08-03 16:24:10 - [MESSAGE][PASSED] - Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Username_log'
+
+2022-08-03 16:24:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Password"), "j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="): Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Password'
+
+2022-08-03 16:24:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Password'
+
+2022-08-03 16:24:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/input_button")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/input_button' is clicked on
+
+2022-08-03 16:24:12 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/input_button' is clicked on
+
+2022-08-03 16:24:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/WP Mail SMTP")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/WP Mail SMTP' is clicked on
+
+2022-08-03 16:24:14 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/WP Mail SMTP' is clicked on
+
+2022-08-03 16:24:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/a_Email Log")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/a_Email Log' is clicked on
+
+2022-08-03 16:24:16 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/a_Email Log' is clicked on
+
+2022-08-03 16:24:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Select all_logs")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Select all_logs' is clicked on
+
+2022-08-03 16:24:17 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Select all_logs' is clicked on
+
+2022-08-03 16:24:17 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Bulk actionsDelete"), "delete", true, CONTINUE_ON_FAILURE): All options with value 'delete' are selected in object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Bulk actionsDelete'  using regular expression
+
+2022-08-03 16:24:18 - [MESSAGE][PASSED] - All options with value 'delete' are selected in object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Bulk actionsDelete'  using regular expression
+
+2022-08-03 16:24:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/bulk action_button"), CONTINUE_ON_FAILURE): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/bulk action_button' is clicked on
+
+2022-08-03 16:24:19 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/bulk action_button' is clicked on
+
+2022-08-03 16:24:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/td_No emails have been logged for now"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/td_No emails have been logged for now' is present
+
+2022-08-03 16:24:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:24:20 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/td_No emails have been logged for now' is present
+
+2022-08-03 16:24:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-03 16:24:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-03 16:24:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-03 16:24:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/buy_gift_voucher" time="27.962" classname="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/buy_gift_voucher" status="PASSED">
+         <system-out><![CDATA[2022-08-03 16:24:22 - [TEST_CASE][PASSED] - Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/buy_gift_voucher: Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/buy_gift_voucher
+
+2022-08-03 16:24:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-03 16:24:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-03 16:24:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-03 16:24:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-03 16:24:23 - [TEST_STEP][PASSED] - navigateToUrl("https://test2.bittermate.com/product/fuerteventura-4-x-4/"): Navigate to 'https://test2.bittermate.com/product/fuerteventura-4-x-4/' successfully
+
+2022-08-03 16:24:25 - [MESSAGE][PASSED] - Navigate to 'https://test2.bittermate.com/product/fuerteventura-4-x-4/' successfully
+
+2022-08-03 16:24:25 - [TEST_STEP][PASSED] - click(findTestObject("technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_Book now_turitop_booking_system_gift_checkbox")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_Book now_turitop_booking_system_gift_checkbox' is clicked on
+
+2022-08-03 16:24:28 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_Book now_turitop_booking_system_gift_checkbox' is clicked on
+
+2022-08-03 16:24:28 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg' is double clicked on
+
+2022-08-03 16:24:30 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg' is double clicked on
+
+2022-08-03 16:24:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-03 16:24:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-03 16:24:33 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg' is double clicked on
+
+2022-08-03 16:24:33 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg' is double clicked on
+
+2022-08-03 16:24:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__734c47"), "recipient test"): Text 'recipient test' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__734c47'
+
+2022-08-03 16:24:34 - [MESSAGE][PASSED] - Text 'recipient test' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__734c47'
+
+2022-08-03 16:24:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023"), "charly"): Text 'charly' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023'
+
+2022-08-03 16:24:37 - [MESSAGE][PASSED] - Text 'charly' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023'
+
+2022-08-03 16:24:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023' is clicked on
+
+2022-08-03 16:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023' is clicked on
+
+2022-08-03 16:24:37 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023' is double clicked on
+
+2022-08-03 16:24:37 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023' is double clicked on
+
+2022-08-03 16:24:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023"), "ticalo.help@gmail.com"): Text 'ticalo.help@gmail.com' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023'
+
+2022-08-03 16:24:38 - [MESSAGE][PASSED] - Text 'ticalo.help@gmail.com' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023'
+
+2022-08-03 16:24:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Book now")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Book now' is clicked on
+
+2022-08-03 16:24:38 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Book now' is clicked on
+
+2022-08-03 16:24:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_first_name"), "buyer"): Text 'buyer' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_first_name'
+
+2022-08-03 16:24:41 - [MESSAGE][PASSED] - Text 'buyer' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_first_name'
+
+2022-08-03 16:24:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_(optional)_billing_last_name"), "test gift"): Text 'test gift' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_(optional)_billing_last_name'
+
+2022-08-03 16:24:42 - [MESSAGE][PASSED] - Text 'test gift' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_(optional)_billing_last_name'
+
+2022-08-03 16:24:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_email"), "ticalo.help@gmail.com"): Text 'ticalo.help@gmail.com' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_email'
+
+2022-08-03 16:24:42 - [MESSAGE][PASSED] - Text 'ticalo.help@gmail.com' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_email'
+
+2022-08-03 16:24:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/button_Place order")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/button_Place order' is clicked on
+
+2022-08-03 16:24:43 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/button_Place order' is clicked on
+
+2022-08-03 16:24:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to download your gift voucher"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to download your gift voucher' is present
+
+2022-08-03 16:24:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:24:49 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to download your gift voucher' is present
+
+2022-08-03 16:24:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to redeem your gift voucher"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to redeem your gift voucher' is present
+
+2022-08-03 16:24:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:24:50 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to redeem your gift voucher' is present
+
+2022-08-03 16:24:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/h1_Order received"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/h1_Order received' is present
+
+2022-08-03 16:24:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:24:50 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/h1_Order received' is present
+
+2022-08-03 16:24:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-03 16:24:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs" time="13.736" classname="Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs" status="PASSED">
+         <system-out><![CDATA[2022-08-03 16:24:50 - [TEST_CASE][PASSED] - Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs: Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs
+
+2022-08-03 16:24:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-03 16:24:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-03 16:24:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-03 16:24:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-03 16:24:51 - [TEST_STEP][PASSED] - navigateToUrl("https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"): Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 16:24:52 - [MESSAGE][PASSED] - Navigate to 'https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1' successfully
+
+2022-08-03 16:24:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Username"), "HeK7efHMQ5uFnm9JjsPr"): Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Username'
+
+2022-08-03 16:24:53 - [MESSAGE][PASSED] - Text 'HeK7efHMQ5uFnm9JjsPr' is set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Username'
+
+2022-08-03 16:24:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Password"), "j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="): Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Password'
+
+2022-08-03 16:24:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Password'
+
+2022-08-03 16:24:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_button")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_button' is clicked on
+
+2022-08-03 16:24:56 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_button' is clicked on
+
+2022-08-03 16:24:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPMail_SMTP")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPMail_SMTP' is clicked on
+
+2022-08-03 16:24:58 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPMail_SMTP' is clicked on
+
+2022-08-03 16:24:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPmail_Logs")): Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPmail_Logs' is clicked on
+
+2022-08-03 16:25:00 - [MESSAGE][PASSED] - Object: 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPmail_Logs' is clicked on
+
+2022-08-03 16:25:00 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/Congratulations_email"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/Congratulations_email' is present
+
+2022-08-03 16:25:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:25:01 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/Congratulations_email' is present
+
+2022-08-03 16:25:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/New order_log"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/New order_log' is present
+
+2022-08-03 16:25:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:25:01 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/New order_log' is present
+
+2022-08-03 16:25:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/order _eceived"), 0): Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/order _eceived' is present
+
+2022-08-03 16:25:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-08-03 16:25:02 - [MESSAGE][PASSED] - Object 'Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/order _eceived' is present
+
+2022-08-03 16:25:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-03 16:25:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-03 16:25:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-08-03 16:25:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-03 16:24:05 - [TEST_SUITE][PASSED] - gift_voucher: Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

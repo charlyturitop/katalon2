@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to redeem your gift voucher</name>
+   <tag></tag>
+   <elementGuidId>fbef2ac1-4e8a-46b1-9034-91d7023f8f50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[2]/div/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c666b3bf-c811-46f5-a5bb-493bf766fbff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>434a53a5-7de7-4949-8312-88da186bceed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test2.bittermate.com/product/redeem/?redeem_gift_code=glzn9oy9rm</value>
+      <webElementGuid>c9e38bb9-9a6a-4f27-b03b-f4859c4695bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to redeem your gift voucher</value>
+      <webElementGuid>658681b2-f80b-4314-848f-2c4ae0dce55e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;page-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/section[@class=&quot;woocommerce-order-details&quot;]/table[@class=&quot;woocommerce-table woocommerce-table--order-details shop_table order_details&quot;]/tbody[1]/tr[@class=&quot;woocommerce-table__line-item order_item&quot;]/td[@class=&quot;woocommerce-table__product-name product-name&quot;]/div[@class=&quot;turitop_booking_system_cart_info&quot;]/div[@class=&quot;turitop_booking_system_cart_info&quot;]/div[5]/a[1]</value>
+      <webElementGuid>67b6b007-c12b-4a2d-bbb4-3bf03f052c73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[2]/div/div[5]/a</value>
+      <webElementGuid>8ad0ab9c-9851-447b-ad30-d9de80b8ade1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to redeem your gift voucher')]</value>
+      <webElementGuid>96088a4c-79e3-453c-b98f-1860e8143534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redeem Voucher:'])[1]/following::a[1]</value>
+      <webElementGuid>ba4b062a-5e75-4363-8c10-bfbc76a719bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to download your gift voucher'])[1]/following::a[1]</value>
+      <webElementGuid>a26df186-f017-4adc-98ef-3acbca974a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[4]/preceding::a[1]</value>
+      <webElementGuid>dd018f59-50b1-4193-a9a9-8883260b3dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::a[1]</value>
+      <webElementGuid>68c42e9d-f11c-41cf-a07a-ecfc41dd6c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to redeem your gift voucher']/parent::*</value>
+      <webElementGuid>d902ba91-2c1a-438c-995b-4ba9eaf49a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://test2.bittermate.com/product/redeem/?redeem_gift_code=glzn9oy9rm')]</value>
+      <webElementGuid>830a50a7-fced-46f3-8818-1571ba77a809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>585dc4ca-b76f-48da-a26e-72b22605fb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test2.bittermate.com/product/redeem/?redeem_gift_code=glzn9oy9rm' and (text() = 'Click here to redeem your gift voucher' or . = 'Click here to redeem your gift voucher')]</value>
+      <webElementGuid>d08eaf12-336a-43e1-9c13-c137592b1225</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

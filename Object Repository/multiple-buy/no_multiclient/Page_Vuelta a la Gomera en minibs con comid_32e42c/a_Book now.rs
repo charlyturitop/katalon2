@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book now</name>
+   <tag></tag>
+   <elementGuidId>0e4a4d10-2b0d-4d7d-b5b6-80323bc39f68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-3729']/div[2]/div[3]/div[2]/div[6]/div/div[8]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.turitop_booking_system_button_event.lightbox-button-turitop-wc.lightbox-button-turitop-wc-calendar-classic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9bbec1fe-ff55-4953-84cf-6ce47a2d1906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#bookbutton</value>
+      <webElementGuid>1bc69d24-46dd-4e9f-a22e-cbdd13b4d4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>turitop_booking_system_button_event lightbox-button-turitop-wc lightbox-button-turitop-wc-calendar-classic</value>
+      <webElementGuid>a9237ae7-7384-4d20-8b80-399b93d1f4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Book now </value>
+      <webElementGuid>ae0261a6-d32d-4f8c-8925-1eaacc495855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-3729&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap turitop_booking_system_woocommerce_wrap_left_to_right&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap_all_calendar&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button_gift_wrap&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button&quot;]/div[@class=&quot;turitop_booking_system_button turitop_bswp_button_box_wrap&quot;]/div[@class=&quot;turitop_booking_system_hidden turitop_booking_system_box_button&quot;]/a[@class=&quot;turitop_booking_system_button_event lightbox-button-turitop-wc lightbox-button-turitop-wc-calendar-classic&quot;]</value>
+      <webElementGuid>a73549b2-4360-49e8-85c4-5b815fc90f7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-3729']/div[2]/div[3]/div[2]/div[6]/div/div[8]/div/a</value>
+      <webElementGuid>6059b4e2-7c05-4da8-a412-eebaadb779ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book now')]</value>
+      <webElementGuid>831d94b3-54f6-4b70-a8aa-6dd19501df02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[6]/following::a[1]</value>
+      <webElementGuid>1c499bb8-585d-47fe-9351-b3378b53e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::a[1]</value>
+      <webElementGuid>78c0879a-60fb-4690-9130-2294de6749cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want it for a gift (No date)'])[1]/preceding::a[1]</value>
+      <webElementGuid>896177b4-68c4-4663-a975-2303872fb8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Voucher Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d97d952-c032-4b9d-a187-9f40cc4f61b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book now']/parent::*</value>
+      <webElementGuid>c59da345-c924-4a82-a12c-978d667a97fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#bookbutton')]</value>
+      <webElementGuid>7730a1a6-3663-4eac-bdea-cd30f1042d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/a</value>
+      <webElementGuid>ae541049-e21b-43e3-88ed-69f9cc33f851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#bookbutton' and (text() = ' Book now ' or . = ' Book now ')]</value>
+      <webElementGuid>5d19b52a-4389-4ce1-95f5-3781a76388a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

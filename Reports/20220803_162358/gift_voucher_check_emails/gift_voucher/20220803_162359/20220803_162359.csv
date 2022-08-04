@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+gift_voucher,Chrome 103.0.5060.134,,,2022-08-03 16:24:05,2022-08-03 16:25:04,"58,210s",PASSED
+,,,,,,,
+Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/deleted_emails_logs,Chrome 103.0.5060.134,,,2022-08-03 16:24:06,2022-08-03 16:24:22,"16,260s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-03 16:24:06,2022-08-03 16:24:08,"1,980s",PASSED
+"navigateToUrl(""https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:08,2022-08-03 16:24:09,"0,836s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Username_log""), ""HeK7efHMQ5uFnm9JjsPr"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:09,2022-08-03 16:24:10,"0,945s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Password""), ""j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="")",Chrome 103.0.5060.134,,,2022-08-03 16:24:10,2022-08-03 16:24:10,"0,477s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/input_button""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:10,2022-08-03 16:24:12,"2,248s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/WP Mail SMTP""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:12,2022-08-03 16:24:14,"1,453s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/a_Email Log""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:14,2022-08-03 16:24:16,"2,333s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Select all_logs""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:16,2022-08-03 16:24:17,"0,619s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/Bulk actionsDelete""), ""delete"", true, CONTINUE_ON_FAILURE)",Chrome 103.0.5060.134,,,2022-08-03 16:24:17,2022-08-03 16:24:18,"1,227s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/bulk action_button""), CONTINUE_ON_FAILURE)",Chrome 103.0.5060.134,,,2022-08-03 16:24:18,2022-08-03 16:24:19,"1,153s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/Deleted_emails_logs/td_No emails have been logged for now""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:24:19,2022-08-03 16:24:20,"0,571s",PASSED
+delay(2),Chrome 103.0.5060.134,,,2022-08-03 16:24:20,2022-08-03 16:24:22,"2,013s",PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-03 16:24:22,2022-08-03 16:24:22,"0,123s",PASSED
+,,,,,,,
+Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/buy_gift_voucher,Chrome 103.0.5060.134,,,2022-08-03 16:24:22,2022-08-03 16:24:50,"27,962s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-03 16:24:22,2022-08-03 16:24:23,"1,092s",PASSED
+"navigateToUrl(""https://test2.bittermate.com/product/fuerteventura-4-x-4/"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:23,2022-08-03 16:24:25,"2,073s",PASSED
+"click(findTestObject(""technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_Book now_turitop_booking_system_gift_checkbox""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:25,2022-08-03 16:24:28,"2,577s",PASSED
+"doubleClick(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:28,2022-08-03 16:24:30,"1,636s",PASSED
+delay(3),Chrome 103.0.5060.134,,,2022-08-03 16:24:30,2022-08-03 16:24:33,"3,007s",PASSED
+"doubleClick(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/svg""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:33,2022-08-03 16:24:33,"0,582s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__734c47""), ""recipient test"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:33,2022-08-03 16:24:34,"1,092s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023""), ""charly"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:34,2022-08-03 16:24:37,"2,623s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:37,2022-08-03 16:24:37,"0,276s",PASSED
+"doubleClick(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:37,2022-08-03 16:24:37,"0,371s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__turitop_booking_system_gift_voucher__7a3023""), ""ticalo.help@gmail.com"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:37,2022-08-03 16:24:38,"0,539s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Book now""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:38,2022-08-03 16:24:38,"0,312s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_first_name""), ""buyer"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:38,2022-08-03 16:24:41,"2,921s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input_(optional)_billing_last_name""), ""test gift"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:41,2022-08-03 16:24:42,"0,549s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/input__billing_email""), ""ticalo.help@gmail.com"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:42,2022-08-03 16:24:42,"0,567s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/button_Place order""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:42,2022-08-03 16:24:43,"0,348s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to download your gift voucher""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:24:43,2022-08-03 16:24:49,"6,369s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/a_Click here to redeem your gift voucher""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:24:49,2022-08-03 16:24:50,"0,462s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/buy_gift/h1_Order received""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:24:50,2022-08-03 16:24:50,"0,272s",PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-03 16:24:50,2022-08-03 16:24:50,"0,134s",PASSED
+,,,,,,,
+Test Cases/Technical_validations/woocommerce/products/wordpress_front/buy_gift_voucher_check_email_logs/verificate_emails_logs,Chrome 103.0.5060.134,,,2022-08-03 16:24:50,2022-08-03 16:25:04,"13,736s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-03 16:24:50,2022-08-03 16:24:51,"1,377s",PASSED
+"navigateToUrl(""https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:51,2022-08-03 16:24:52,"0,935s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Username""), ""HeK7efHMQ5uFnm9JjsPr"")",Chrome 103.0.5060.134,,,2022-08-03 16:24:52,2022-08-03 16:24:53,"0,765s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_Password""), ""j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="")",Chrome 103.0.5060.134,,,2022-08-03 16:24:53,2022-08-03 16:24:54,"0,382s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/input_button""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:54,2022-08-03 16:24:56,"2,756s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPMail_SMTP""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:56,2022-08-03 16:24:58,"1,609s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/WPmail_Logs""))",Chrome 103.0.5060.134,,,2022-08-03 16:24:58,2022-08-03 16:25:00,"2,332s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/Congratulations_email""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:25:00,2022-08-03 16:25:01,"0,570s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/New order_log""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:25:01,2022-08-03 16:25:01,"0,365s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_front/buy_gift_voucher/check_email_logs/order _eceived""), 0)",Chrome 103.0.5060.134,,,2022-08-03 16:25:01,2022-08-03 16:25:02,"0,364s",PASSED
+delay(2),Chrome 103.0.5060.134,,,2022-08-03 16:25:02,2022-08-03 16:25:04,"2,004s",PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-03 16:25:04,2022-08-03 16:25:04,"0,124s",PASSED

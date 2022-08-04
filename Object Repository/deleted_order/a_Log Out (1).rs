@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log Out (1)</name>
+   <tag></tag>
+   <elementGuidId>1d48de4a-17e3-45e4-9c7f-79e0d2db44fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='wp-admin-bar-logout']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wp-admin-bar-logout > a.ab-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2dc6aaf-ecb3-440c-8b3b-eb728603e4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ab-item</value>
+      <webElementGuid>9ce9ec3b-cdd2-418d-bac5-2d04f6c3876c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test2.bittermate.com/wp-login.php?action=logout&amp;_wpnonce=a100742476</value>
+      <webElementGuid>fac61d05-bbc5-49f1-801e-b7a36e4dda16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>7b314f37-052d-4b33-9351-8944b0f9b25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wp-admin-bar-logout&quot;)/a[@class=&quot;ab-item&quot;]</value>
+      <webElementGuid>f5b28e1a-1a89-4b3d-837a-3c15ac54ade5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='wp-admin-bar-logout']/a</value>
+      <webElementGuid>0d82c261-7323-4880-bd27-a416a862d83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log Out')]</value>
+      <webElementGuid>3d481786-44d2-4aad-949b-0a7322a50c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profile'])[1]/following::a[1]</value>
+      <webElementGuid>abc1e0d8-9bdf-4179-b393-37973e94bee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HeK7efHMQ5uFnm9JjsPr'])[2]/following::a[2]</value>
+      <webElementGuid>2a847627-f495-4e74-b7fe-ba8ab42f85e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[2]/preceding::a[1]</value>
+      <webElementGuid>a002d2ef-ab84-41ea-ab1a-5001d8f82e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::a[2]</value>
+      <webElementGuid>089b5a3e-e540-47d2-b9a2-88af52d5cbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>36ffc534-455a-4323-bb40-97cf5936d367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://test2.bittermate.com/wp-login.php?action=logout&amp;_wpnonce=a100742476')]</value>
+      <webElementGuid>fcd5f9b2-b981-4425-8230-acbe8cd810f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul[2]/li/div/ul/li[3]/a</value>
+      <webElementGuid>fb6a8ef9-80ea-4367-8d93-5fe6b65ba849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test2.bittermate.com/wp-login.php?action=logout&amp;_wpnonce=a100742476' and (text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>fe8127cf-fc1d-4f65-9106-1e1ad33d9408</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bulk actionsDelete</name>
+   <tag></tag>
+   <elementGuidId>f56a92c9-0139-4da7-a26a-1bdedfc85678</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='bulk-action-selector-top']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bulk-action-selector-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d17ae7a7-f98b-4ed9-99c5-96147b987fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>61ffa3da-9961-407d-afcf-b8e6fa73ac9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bulk-action-selector-top</value>
+      <webElementGuid>d7ddcb68-39ac-40fd-a4dc-9bf77b3c43e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Bulk actions
+	Delete
+	Resend
+</value>
+      <webElementGuid>31e9974e-de6c-4240-b504-eefc773cf81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bulk-action-selector-top&quot;)</value>
+      <webElementGuid>3c4ae76b-4967-4942-a48a-290bf7550486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='bulk-action-selector-top']</value>
+      <webElementGuid>3cb0f887-0d6e-4380-87ec-d0f54919905d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wp-mail-smtp']/div/div[4]/form/div/div/select</value>
+      <webElementGuid>1e44bf67-bfef-460b-815d-afbd3ecae547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bulk action'])[1]/following::select[1]</value>
+      <webElementGuid>002a782f-0946-437f-9a24-9a19ce232f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[2]/following::select[1]</value>
+      <webElementGuid>bec7eb9c-b896-4179-81ae-6ad7c22fcd08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/preceding::select[1]</value>
+      <webElementGuid>0998daac-7187-4c3d-90d3-3f15f3fffe37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete All Logs'])[1]/preceding::select[1]</value>
+      <webElementGuid>21dd298c-256f-4742-b088-c99ab8a22d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/select</value>
+      <webElementGuid>51690de1-3f11-459a-a62b-2e9adab562c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'action' and @id = 'bulk-action-selector-top' and (text() = '
+Bulk actions
+	Delete
+	Resend
+' or . = '
+Bulk actions
+	Delete
+	Resend
+')]</value>
+      <webElementGuid>51dbae2b-a65d-4987-8b5e-778797872292</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

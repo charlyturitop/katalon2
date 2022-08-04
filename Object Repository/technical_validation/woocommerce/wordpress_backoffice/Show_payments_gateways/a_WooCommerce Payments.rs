@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WooCommerce Payments</name>
+   <tag></tag>
+   <elementGuidId>9e7299d2-ac03-4f38-91ba-fd56c456c31b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mainform']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.subsubsub > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11f46785-8725-41b2-bb66-4b08fe4775f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test2.bittermate.com/wp-admin/admin.php?page=wc-settings&amp;tab=checkout&amp;section=woocommerce_payments</value>
+      <webElementGuid>3ba91168-602f-44cc-b7ad-6d78f7d2ab1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WooCommerce Payments</value>
+      <webElementGuid>9af9e2e6-b740-403c-a927-766f8e041da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainform&quot;)/ul[@class=&quot;subsubsub&quot;]/li[1]/a[1]</value>
+      <webElementGuid>00a5c87b-04c4-474a-bc5f-6d968660814b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mainform']/ul/li/a</value>
+      <webElementGuid>b56647ca-3f7f-4dbd-8889-62d33e5a22dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'WooCommerce Payments')]</value>
+      <webElementGuid>90478b49-d4aa-4535-aeac-5831d69bfa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No thanks'])[2]/following::a[1]</value>
+      <webElementGuid>e73b5b9d-e0be-4375-8aa5-fe4a640fc310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All payment methods'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a89a237-83ea-484a-8fc1-a5070d9c5e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Methods'])[1]/preceding::a[2]</value>
+      <webElementGuid>80eb0f7b-5795-4ca6-a451-8f99335d4b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WooCommerce Payments']/parent::*</value>
+      <webElementGuid>6156cb5e-bb0a-44f1-bee0-406f0d79d4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://test2.bittermate.com/wp-admin/admin.php?page=wc-settings&amp;tab=checkout&amp;section=woocommerce_payments')]</value>
+      <webElementGuid>a35cc4a3-1b78-4917-af7f-c23a9a34421a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/ul/li/a</value>
+      <webElementGuid>88dacfb5-9505-4455-9cf1-2b3a622e94ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test2.bittermate.com/wp-admin/admin.php?page=wc-settings&amp;tab=checkout&amp;section=woocommerce_payments' and (text() = 'WooCommerce Payments' or . = 'WooCommerce Payments')]</value>
+      <webElementGuid>357d41a8-e38d-40ab-961e-a9a3ea85772a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

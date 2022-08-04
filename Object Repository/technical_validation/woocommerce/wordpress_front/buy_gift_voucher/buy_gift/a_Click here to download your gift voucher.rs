@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to download your gift voucher</name>
+   <tag></tag>
+   <elementGuidId>b0078658-18ae-4fdc-8595-2fe251517fee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[2]/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b4a0807d-8be3-46ce-aaf2-ba7794fb073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>62723012-325e-4be5-9da8-1da8595ab9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.turitop.com/admin/company/T1217/gift/voucher/loadpdf/WPL1Gx</value>
+      <webElementGuid>a4899aa5-fae1-446d-bf1d-be86ed66c39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to download your gift voucher</value>
+      <webElementGuid>3689aeba-5346-44d0-ad74-85924f214132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;page-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/section[@class=&quot;woocommerce-order-details&quot;]/table[@class=&quot;woocommerce-table woocommerce-table--order-details shop_table order_details&quot;]/tbody[1]/tr[@class=&quot;woocommerce-table__line-item order_item&quot;]/td[@class=&quot;woocommerce-table__product-name product-name&quot;]/div[@class=&quot;turitop_booking_system_cart_info&quot;]/div[@class=&quot;turitop_booking_system_cart_info&quot;]/div[4]/a[1]</value>
+      <webElementGuid>7228b372-bbab-44dd-a77e-a3bcfd6baef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[2]/div/div[4]/a</value>
+      <webElementGuid>31e639e9-f576-4385-b8ac-98e3088b1750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to download your gift voucher')]</value>
+      <webElementGuid>a6e7fff6-fcce-41f9-842a-9b919ccabbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download:'])[1]/following::a[1]</value>
+      <webElementGuid>b3547d33-5aed-483a-92c2-acb60431138e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift code:'])[1]/following::a[1]</value>
+      <webElementGuid>0dfb1a6f-0f04-4ff6-8f9d-e55d2120db1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redeem Voucher:'])[1]/preceding::a[1]</value>
+      <webElementGuid>7559a003-7add-440f-abff-027096909729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to redeem your gift voucher'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf3680a3-8ae9-4cea-b939-ba3acefa6a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to download your gift voucher']/parent::*</value>
+      <webElementGuid>bdc739e4-6369-4c38-9de1-54a3f89128a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.turitop.com/admin/company/T1217/gift/voucher/loadpdf/WPL1Gx')]</value>
+      <webElementGuid>915503df-5cb3-4dc9-8389-6277f31c8b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>f1d982c1-6c3f-4c07-ad12-26c16dd321f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.turitop.com/admin/company/T1217/gift/voucher/loadpdf/WPL1Gx' and (text() = 'Click here to download your gift voucher' or . = 'Click here to download your gift voucher')]</value>
+      <webElementGuid>b4ca214c-9e15-4d93-8d18-8fb53d6a31a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

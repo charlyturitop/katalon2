@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>bf15183e-89f5-40ac-8d02-1f5f30087b99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[7]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.turitop_booking_system_ticket_availability.turitop_booking_system_ticket_availability_287921 > div.button_tickets > div.inc.button > span > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5b0af2cb-f54f-4d8c-b808-772797c2259a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>492283b5-2392-4d5b-b9c9-ca984b10ec53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>74839e6e-5337-45f8-addd-4b91db2725f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>65f84073-4266-4fd9-a89c-8409b401e844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>18ec1ce8-5632-435a-8a96-e86bff9bbd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product-template-default single single-product postid-3751 wp-custom-logo theme-hello-elementor woocommerce woocommerce-page woocommerce-js translatepress-en_GB jet-desktop-menu-active elementor-default elementor-template-full-width elementor-kit-3152 elementor-page-3962 webp-support e--ua-firefox e--ua-mac&quot;]/div[@class=&quot;elementor elementor-3962 elementor-location-single post-3751 product type-product status-publish first instock featured virtual sold-individually purchasable product-type-turitop product&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-acc7728 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-07ef1c4&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/section[@class=&quot;elementor-section elementor-inner-section elementor-element elementor-element-463c346 elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-66ebccb&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-cdf820c elementor-widget elementor-widget-turitop-calendar&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap turitop_booking_system_woocommerce_wrap_left_to_right&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap_all_calendar&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button_gift_wrap&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button&quot;]/div[@class=&quot;turitop_booking_system_tickets turitop_booking_system_tickets_classic&quot;]/table[@class=&quot;turitop_booking_system_tickets_table&quot;]/tbody[1]/tr[@class=&quot;turitop_booking_system_ticket_tr turitop_booking_system_ticket_287921&quot;]/td[@class=&quot;turitop_booking_system_ticket_availability turitop_booking_system_ticket_availability_287921&quot;]/div[@class=&quot;button_tickets&quot;]/div[@class=&quot;inc button&quot;]/span[1]/svg[1]</value>
+      <webElementGuid>dcbe055e-8ddd-436d-9352-8c121c20cff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[7]/following::*[name()='svg'][2]</value>
+      <webElementGuid>15526ce5-99a8-4f10-a241-21a8ff1a2315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>379725e1-0509-49c0-a09d-4c8f51b5e0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select pick-up'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c5460e7c-5c0b-425e-bfb5-8bd070819ee3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

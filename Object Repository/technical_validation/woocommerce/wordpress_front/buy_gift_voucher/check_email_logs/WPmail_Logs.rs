@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WPmail_Logs</name>
+   <tag></tag>
+   <elementGuidId>f598d610-3033-4ad6-a4c7-ce03ad7712d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='toplevel_page_wp-mail-smtp']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c93b931a-5d48-4e7c-8f2c-89a677ad7bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>admin.php?page=wp-mail-smtp-logs</value>
+      <webElementGuid>e3abcf7c-069e-45ee-91b2-a77c3e0b514d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Log</value>
+      <webElementGuid>1ae769e4-5eb2-49ff-8522-a25669c97ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toplevel_page_wp-mail-smtp&quot;)/ul[@class=&quot;wp-submenu wp-submenu-wrap&quot;]/li[3]/a[1]</value>
+      <webElementGuid>d87777ab-9af8-4e6f-b342-831744ef0064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='toplevel_page_wp-mail-smtp']/ul/li[3]/a</value>
+      <webElementGuid>83cee582-abaa-45a4-9b1a-3109af7649f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Email Log')]</value>
+      <webElementGuid>7d3234f5-0334-4245-b7d5-97a1f7c476b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[4]/following::a[1]</value>
+      <webElementGuid>6396ed8b-b58e-4f7f-9ad5-a22dc24d914a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WP Mail SMTP'])[1]/following::a[2]</value>
+      <webElementGuid>0fc81c5e-2848-4fd8-8a04-fe0e21a70030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>b703e8b6-d76c-4f32-8dad-5bd88d592b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[4]/preceding::a[2]</value>
+      <webElementGuid>8022f4c4-d55d-4454-b640-994b084a2d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Log']/parent::*</value>
+      <webElementGuid>d95d428d-07d3-4bc2-af93-70932ca514e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'admin.php?page=wp-mail-smtp-logs')]</value>
+      <webElementGuid>ec287997-b48c-4906-aa81-adc4b9637f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[23]/ul/li[3]/a</value>
+      <webElementGuid>d2a45d3a-098a-4265-871a-fa1ddc0e410a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'admin.php?page=wp-mail-smtp-logs' and (text() = 'Email Log' or . = 'Email Log')]</value>
+      <webElementGuid>aa04b465-c93e-4259-886d-0ff5c6458c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

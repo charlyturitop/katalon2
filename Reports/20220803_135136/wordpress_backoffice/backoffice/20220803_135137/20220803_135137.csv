@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+backoffice,Chrome 103.0.5060.134,,,2022-08-03 13:51:44,2022-08-03 13:52:31,"46,848s",PASSED
+,,,,,,,
+Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/woocommerce_settings_jetwoobuilder_exist,Chrome 103.0.5060.134,,,2022-08-03 13:51:44,2022-08-03 13:52:08,"23,944s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-03 13:51:45,2022-08-03 13:51:46,"1,736s",PASSED
+"navigateToUrl(""https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"")",Chrome 103.0.5060.134,,,2022-08-03 13:51:46,2022-08-03 13:51:47,"1,033s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Username""), ""HeK7efHMQ5uFnm9JjsPr"")",Chrome 103.0.5060.134,,,2022-08-03 13:51:47,2022-08-03 13:51:48,"0,773s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/input_Password""), ""j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="")",Chrome 103.0.5060.134,,,2022-08-03 13:51:48,2022-08-03 13:51:49,"0,480s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/submit_button""))",Chrome 103.0.5060.134,,,2022-08-03 13:51:49,2022-08-03 13:51:51,"2,273s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_WooCommerce""))",Chrome 103.0.5060.134,,,2022-08-03 13:51:51,2022-08-03 13:51:53,"1,930s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/woocommerce_Settings""))",Chrome 103.0.5060.134,,,2022-08-03 13:51:53,2022-08-03 13:51:59,"6,596s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/a_JetWooBuilder""))",Chrome 103.0.5060.134,,,2022-08-03 13:51:59,2022-08-03 13:52:02,"2,348s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/div_GeneralProductsShippingPaymentsAccounts_2afa44""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:02,2022-08-03 13:52:03,"1,291s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_General""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:03,2022-08-03 13:52:03,"0,262s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/th_Widgets Render Method""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:03,2022-08-03 13:52:04,"0,263s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Shop Page""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:04,2022-08-03 13:52:04,"0,260s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Single Product""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:04,2022-08-03 13:52:04,"0,363s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Product""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:04,2022-08-03 13:52:04,"0,256s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Archive Category""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:04,2022-08-03 13:52:05,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Checkout""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:05,2022-08-03 13:52:05,"0,258s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_Thank You Page""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:05,2022-08-03 13:52:05,"0,267s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/h2_My Account Page""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:05,2022-08-03 13:52:06,"0,370s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/jetwoobuilder_exist/jetwoobuilder/button_Save changes""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:06,2022-08-03 13:52:06,"0,374s",PASSED
+delay(2),Chrome 103.0.5060.134,,,2022-08-03 13:52:06,2022-08-03 13:52:08,"2,015s",PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-03 13:52:08,2022-08-03 13:52:08,"0,141s",PASSED
+,,,,,,,
+Test Cases/Technical_validations/woocommerce/products/wordpres_backoffice/show_payment_gateways_settings,Chrome 103.0.5060.134,,,2022-08-03 13:52:08,2022-08-03 13:52:31,"22,646s",PASSED
+"openBrowser("""")",Chrome 103.0.5060.134,,,2022-08-03 13:52:08,2022-08-03 13:52:09,"1,061s",PASSED
+"navigateToUrl(""https://test2.bittermate.com/wp-login.php?redirect_to=https%3A%2F%2Ftest2.bittermate.com%2Fwp-admin%2F&reauth=1"")",Chrome 103.0.5060.134,,,2022-08-03 13:52:09,2022-08-03 13:52:10,"0,792s",PASSED
+"setText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Username""), ""HeK7efHMQ5uFnm9JjsPr"")",Chrome 103.0.5060.134,,,2022-08-03 13:52:10,2022-08-03 13:52:11,"0,766s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/input_Password""), ""j0Nap0ti6DhaVggngvyR/o5uPt58Q4Zkrfnklq59dgCapLJ4ygQgUQ=="")",Chrome 103.0.5060.134,,,2022-08-03 13:52:11,2022-08-03 13:52:11,"0,432s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/login_button""))",Chrome 103.0.5060.134,,,2022-08-03 13:52:11,2022-08-03 13:52:14,"2,206s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/WooCommerce""))",Chrome 103.0.5060.134,,,2022-08-03 13:52:14,2022-08-03 13:52:16,"2,105s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/woocommerce_Settings""))",Chrome 103.0.5060.134,,,2022-08-03 13:52:16,2022-08-03 13:52:23,"7,095s",PASSED
+"click(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_Payments""))",Chrome 103.0.5060.134,,,2022-08-03 13:52:23,2022-08-03 13:52:25,"2,438s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/full_block""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:25,2022-08-03 13:52:28,"2,606s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/td_Custom Payment""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:28,2022-08-03 13:52:28,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/button_Save changes""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:28,2022-08-03 13:52:28,"0,258s",PASSED
+delay(2),Chrome 103.0.5060.134,,,2022-08-03 13:52:28,2022-08-03 13:52:30,"2,004s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/technical_validation/woocommerce/wordpress_backoffice/Show_payments_gateways/a_WooCommerce Payments""), 0)",Chrome 103.0.5060.134,,,2022-08-03 13:52:30,2022-08-03 13:52:31,"0,260s",PASSED
+closeBrowser(),Chrome 103.0.5060.134,,,2022-08-03 13:52:31,2022-08-03 13:52:31,"0,132s",PASSED

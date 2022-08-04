@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Custom Payment</name>
+   <tag></tag>
+   <elementGuidId>00cd817c-941a-4864-91d4-f7f8e5234d40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mainform']/table/tbody/tr/td/table/tbody/tr[5]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>849e61e2-11e6-4ba8-b49b-cd0581c23da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>6f987c2b-097f-4fb4-889d-9ddb99687798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom Payment</value>
+      <webElementGuid>f206a87c-588a-49f7-9bcc-99d17809e7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainform&quot;)/table[@class=&quot;form-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;wc_payment_gateways_wrapper&quot;]/table[@class=&quot;wc_gateways widefat&quot;]/tbody[@class=&quot;ui-sortable&quot;]/tr[5]/td[@class=&quot;name&quot;]</value>
+      <webElementGuid>f16d7296-3f10-43c5-ad4e-735ce0de9b83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mainform']/table/tbody/tr/td/table/tbody/tr[5]/td[2]</value>
+      <webElementGuid>54035e7b-ccfb-4498-82b0-13018df13aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move down'])[5]/following::td[1]</value>
+      <webElementGuid>7bf9f318-2c8c-45c7-a2eb-4e55201b2a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move up'])[5]/following::td[1]</value>
+      <webElementGuid>e5c70280-3fc1-406c-ac8b-879adcc4e8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[5]/preceding::td[1]</value>
+      <webElementGuid>c5516097-13a5-47ac-af5a-cec85c6022b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]</value>
+      <webElementGuid>38c46bee-7ead-4e5c-884f-aa7cf3e793ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Custom Payment' or . = 'Custom Payment')]</value>
+      <webElementGuid>3a0fb387-821a-4467-9462-bdcaf8a66be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

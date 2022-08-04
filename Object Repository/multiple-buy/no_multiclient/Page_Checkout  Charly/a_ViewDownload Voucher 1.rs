@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ViewDownload Voucher 1</name>
+   <tag></tag>
+   <elementGuidId>b8c42ab5-9c78-467b-8939-d59d82b1c7ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[3]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.turitop_booking_system_cart_info > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8c2d2c7-0bcd-4899-9030-bbe4e9a3ebe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_BLANK</value>
+      <webElementGuid>05709705-f0ec-4c6d-bc2d-643a3851835d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.turitop.com/pdf/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE5MDg2MTA1IiwiaWRfY29tcGFueSI6IjE5Mjk2IiwidGVtcGxhdGUiOiJjb25maXJtIiwidXNlcklkZW50aXR5Ijp7ImlkIjpudWxsLCJhZG1pbiI6bnVsbH0sImlhdCI6MTY1OTQ1NDAwMywiZXhwIjoxNjY3MjMwMDAzfQ.Q0COUcUEx_BWn2qmi5mB6r6OJlnJMjUcvUQIvNvoWo8/</value>
+      <webElementGuid>e8d945a4-d352-4a43-9447-2c95d330716d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View/Download Voucher 1</value>
+      <webElementGuid>f664342f-6a8e-4b2c-a733-ad96fe686da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;page-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/section[@class=&quot;woocommerce-order-details&quot;]/table[@class=&quot;woocommerce-table woocommerce-table--order-details shop_table order_details&quot;]/tbody[1]/tr[@class=&quot;woocommerce-table__line-item order_item&quot;]/td[@class=&quot;woocommerce-table__product-name product-name&quot;]/div[@class=&quot;turitop_booking_system_cart_info&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>cde0817d-d8d3-4d6a-9c7e-37ab2f63760c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div/div/section/table/tbody/tr/td/div[3]/ul/li/a</value>
+      <webElementGuid>c24947b6-be95-4ad4-9e17-d593b557633f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View/Download Voucher 1')]</value>
+      <webElementGuid>bdac29b0-3f58-45e1-a548-27281225ec06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ticket Details:'])[1]/following::a[1]</value>
+      <webElementGuid>40365714-8932-4609-ad51-a8094856c913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adulto'])[1]/following::a[1]</value>
+      <webElementGuid>bef5842a-e4c9-4ac1-ade7-c8f9e758765e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[4]/preceding::a[1]</value>
+      <webElementGuid>37b16301-0055-4c40-af09-c7e23acbb599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::a[1]</value>
+      <webElementGuid>4cf82c58-d776-4bb7-8566-6263893cdf43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View/Download Voucher 1']/parent::*</value>
+      <webElementGuid>19be8284-ff3e-4930-b2dd-33245b3f479a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.turitop.com/pdf/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE5MDg2MTA1IiwiaWRfY29tcGFueSI6IjE5Mjk2IiwidGVtcGxhdGUiOiJjb25maXJtIiwidXNlcklkZW50aXR5Ijp7ImlkIjpudWxsLCJhZG1pbiI6bnVsbH0sImlhdCI6MTY1OTQ1NDAwMywiZXhwIjoxNjY3MjMwMDAzfQ.Q0COUcUEx_BWn2qmi5mB6r6OJlnJMjUcvUQIvNvoWo8/')]</value>
+      <webElementGuid>e169262f-5391-45d4-bb63-c390501f9cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>a84b5602-fde2-4adf-99be-f1898cc5fd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.turitop.com/pdf/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE5MDg2MTA1IiwiaWRfY29tcGFueSI6IjE5Mjk2IiwidGVtcGxhdGUiOiJjb25maXJtIiwidXNlcklkZW50aXR5Ijp7ImlkIjpudWxsLCJhZG1pbiI6bnVsbH0sImlhdCI6MTY1OTQ1NDAwMywiZXhwIjoxNjY3MjMwMDAzfQ.Q0COUcUEx_BWn2qmi5mB6r6OJlnJMjUcvUQIvNvoWo8/' and (text() = 'View/Download Voucher 1' or . = 'View/Download Voucher 1')]</value>
+      <webElementGuid>ffd20e96-918e-47e6-ba5b-df36773cd697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

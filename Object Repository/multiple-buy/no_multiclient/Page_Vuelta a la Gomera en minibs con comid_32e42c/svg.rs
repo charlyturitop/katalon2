@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>23a71f2d-f747-4d89-a5e6-5c7dc7f6ead0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[3]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.inc.button > span > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3395d553-6871-4e79-8b02-a86062100b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b1afa08e-e40a-44e0-866d-4b9d92246c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>113b9fa9-2aa0-4888-9eef-5f20f4fbdb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>de02bad4-86e7-4cbe-b0fc-b5c4cd175f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>a99433ac-8d53-46db-9b68-978792a0a86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-3729&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap turitop_booking_system_woocommerce_wrap_left_to_right&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_wrap_all_calendar&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button_gift_wrap&quot;]/div[@class=&quot;turitop_booking_system_woocommerce_tickets_button&quot;]/div[@class=&quot;turitop_booking_system_tickets turitop_booking_system_tickets_classic&quot;]/table[@class=&quot;turitop_booking_system_tickets_table&quot;]/tbody[1]/tr[@class=&quot;turitop_booking_system_ticket_tr turitop_booking_system_ticket_260246&quot;]/td[@class=&quot;turitop_booking_system_ticket_availability turitop_booking_system_ticket_availability_260246&quot;]/div[@class=&quot;button_tickets&quot;]/div[@class=&quot;inc button&quot;]/span[1]/svg[1]</value>
+      <webElementGuid>b2aa1468-fcc4-4e7a-999f-5eadc9ad45f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[3]/following::*[name()='svg'][2]</value>
+      <webElementGuid>e1abdb50-7f76-4011-918b-d351d2e13f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[4]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>9ebc7b14-03ae-4a34-a5a1-acf296f86288</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
